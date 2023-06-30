@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="411ad6db-7434-4457-aa76-0e0399fca7a8" name="Changes" comment="Implementação da Classe ListaEncadeada(add()))">
+    <list default="true" id="411ad6db-7434-4457-aa76-0e0399fca7a8" name="Changes" comment="Implementação da Classe ListaEncadeada(remove()))">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/ListaEncadeada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digitalinnovation/ListaEncadeada.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688151606758</updated>
-      <workItem from="1688151607789" duration="2237000" />
+      <workItem from="1688151607789" duration="4066000" />
     </task>
     <task id="LOCAL-00001" summary="Implementação da Classe No()">
       <option name="closed" value="true" />
@@ -75,7 +76,31 @@
       <option name="project" value="LOCAL" />
       <updated>1688153110102</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Implementação da Classe ListaEncadeada(getNo()))">
+      <option name="closed" value="true" />
+      <created>1688153965879</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688153965879</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Implementação da Classe ListaEncadeada(get()))">
+      <option name="closed" value="true" />
+      <created>1688154090171</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688154090171</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implementação da Classe ListaEncadeada(remove()))">
+      <option name="closed" value="true" />
+      <created>1688155691314</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688155691314</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,7 +110,10 @@
     <MESSAGE value="Implementação da Classe No()" />
     <MESSAGE value="Implementação da Classe ListaEncadeada()&#10;Métodos isEmpty e size()" />
     <MESSAGE value="Implementação da Classe ListaEncadeada(add()))" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementação da Classe ListaEncadeada(add()))" />
+    <MESSAGE value="Implementação da Classe ListaEncadeada(getNo()))" />
+    <MESSAGE value="Implementação da Classe ListaEncadeada(get()))" />
+    <MESSAGE value="Implementação da Classe ListaEncadeada(remove()))" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementação da Classe ListaEncadeada(remove()))" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
